@@ -1,0 +1,10 @@
+div {
+  text-align: center;
+  margin-top: 100px;
+  position: static;
+}
+div .item {
+  height: 300px;
+  padding: auto;
+  border: 1000px;
+}
